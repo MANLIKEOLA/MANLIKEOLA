@@ -12,11 +12,6 @@ Currently sharpening my skills in **HTML, CSS, JavaScript**.
 - HTML, CSS, JavaScript
 - Git & GitHub
 
-### Projects You Should Check Out
-- [Olas-blog](https://github.com/MANLIKEOLA/Ola-s-Blog) – Personal blog built with clean HTML/CSS
-- [JS Practice Projects](https://github.com/MANLIKEOLA/Js-practice-projects) – DOM mini projects and vanilla JS
-- More coming soon…
-
 ---
 
 **Let’s Connect**  
