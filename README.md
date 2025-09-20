@@ -1,4 +1,4 @@
-# Hey, I'm Ola — Web Developer in the Making
+# Hey, I'm Ola — Frontend Developer.
 
 I'm a passionate frontend developer focused on building clean, responsive websites and apps.  
 Currently sharpening my skills in **HTML, CSS, JavaScript**.
