@@ -17,4 +17,4 @@ Currently sharpening my skills in **HTML, CSS, JavaScript**.
 **Let’s Connect**  
 Open to collaborations, mentorship, or freelance work!
 
-- GitHub: [MANLIKEOLA](https://github.com/MANLIKEOLA)
+- GitHub: [MANLIKEOLA](https://github.com/NOMANLIKEOLA)
